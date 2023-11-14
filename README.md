@@ -17,6 +17,4 @@ I'm Roman, a Flutter developer based in Ukraine. I specialize in building cross-
 
 - [LinkedIn](https://www.linkedin.com/in/roman-kliakhin-298103227/)
 
-## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
