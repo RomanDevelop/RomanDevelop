@@ -13,19 +13,15 @@ I'm Roman, a Flutter developer based in Ukraine. I specialize in building cross-
 
 ## 📱 Projects
 
-1. Flutter E-Commerce app 
+- Flutter E-Commerce app 
 Tech: MongoDB, Express.js, Flutter, Dart, Provider. 
-
-2. Social media app
+- Social media app
 Tech: Firebase, Flutter, Dart,  Riverpod.
-
-3. Docs utility app
+- Docs utility app
 Tech: Node.js, Express, MongoDB, Flutter, Dart, Riverpod.
-
-4. Seamen's Club app / web admin panel 
+- Seamen's Club app / web admin panel 
 Tech: Firebase, Flutter, Dart, Provider. 
-
-5. Comics app
+- Comics app
 Tech: Flutter, Dart, Bloc, Mason, rxdart, getIt, code generation.
 
 ## 🌐 Connect with Me
