@@ -10,6 +10,7 @@ I'm Roman, a Flutter developer based in Ukraine. I specialize in building cross-
 - Cache package.
 - Design pattern 'Repository'
 - UI Libraries: Material Design, Cupertino
+- MongoDB, Firebase, Supabase.
 
 ## 📱 Projects
 
