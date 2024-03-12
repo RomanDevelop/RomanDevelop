@@ -5,7 +5,7 @@ I'm Roman, a Flutter developer based in Ukraine. I specialize in building cross-
 ## 🔧 Technologies & Tools
 
 - Flutter and Dart
-- State Management: Provider, Bloc
+- State Management: Provider, Bloc, Riverpod
 - Mason, freezed, getIt, rxDart, fpdart.
 - Cache package.
 - Design pattern 'Repository'
