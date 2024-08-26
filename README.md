@@ -4,13 +4,13 @@ I'm Roman, a Flutter developer based in Ukraine. I specialize in building cross-
 
 ## 🔧 Technologies & Tools
 
-- Flutter and Dart
+- Flutter, Dart, Python, JS.
 - State Management: Provider, Bloc, Riverpod
 - Mason, freezed, getIt, rxDart, fpdart.
 - Cache package.
 - Design pattern 'Repository'
 - UI Libraries: Material Design, Cupertino
-- MongoDB, Firebase, Supabase.
+- MongoDB, Firebase, Supabase, Postgres.
 
 ## 📱 Projects
 
@@ -24,6 +24,8 @@ Tech: Node.js, Express, MongoDB, Flutter, Dart, Riverpod.
 Tech: Firebase, Flutter, Dart, Provider. 
 - Comics app
 Tech: Flutter, Dart, Bloc, Mason, rxdart, getIt, code generation.
+- Music app
+Tech: Flutter, Dart, Riverpod, Python, Postres.
 
 ## 🌐 Connect with Me
 
