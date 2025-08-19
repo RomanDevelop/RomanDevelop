@@ -61,9 +61,8 @@ Passionate about **clean architecture (MVVM, Riverpod, SOLID)**, **CI/CD automat
 
 ### 📫 Contacts
 
-- 🌐 [LinkedIn](https://www.linkedin.com) *(add your link)*  
-- ✉️ roman.develop@example.com *(replace with your email)*  
-- 🐦 [Twitter](https://twitter.com) *(optional)*  
+- 🌐 [LinkedIn](https://www.linkedin.com)
+- ✉️ r.kliakhin@gmail.com
 
 ---
 ✨ Always open to collaboration and exciting projects!
