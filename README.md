@@ -1,68 +1,152 @@
 # 👋 Hi, I'm RomanDevelop
 
-🎯 Middle Flutter Developer | Full-stack Enthusiast | Blockchain & Web3 Explorer  
+### Flutter & Full-Stack Developer | Python Backend | AI Automation | Web3
 
-I build modern **mobile and web apps** with **Flutter** and design backend solutions with **FastAPI & Node.js**.  
-Passionate about **clean architecture (MVVM, Riverpod, SOLID)**, **CI/CD automation**, and creating beautiful UI/UX experiences.  
+I build **mobile, web, backend, AI-powered, and automation systems** — from Flutter applications and maritime platforms to algorithmic trading services and LLM-powered assistants.
 
----
-
-### 🛠️ Tech Stack
-
-- **Frontend & Mobile:** Flutter, Dart, Riverpod, Bloc, Provider  
-- **Backend:** Python (FastAPI), Node.js, REST API, WebSockets  
-- **Blockchain / Web3:** Solidity, MetaMask, Web3dart, Polygon, IPFS (NFT.Storage)  
-- **DevOps & Tools:** GitLab CI/CD, Docker, Firebase, SQLite, PostgreSQL  
-- **Other:** MVVM, Clean Architecture, Unit & Widget Tests, OOP, SOLID  
+My focus is building complete products: **Flutter → Backend → Cloud → Database → AI → Production**.
 
 ---
 
-### 📌 Featured Projects
+## 🛠️ Tech Stack
 
-- 🚀 **SeaJustice DAO** – Web3 DAO platform for the maritime industry (Flutter Web + MetaMask + IPFS + Polygon).  
-- 💳 **Oschad Pay** – Banking app for online payments (Flutter + WebView + SDK).  
-- ⚓ **PraxisClone** – Ship alarm & monitoring system (FastAPI + Flutter).  
-- 📈 **Trading Bot** – Automated stock analysis & trading signals based on price action and reports.  
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RomanDevelop&show_icons=true&theme=tokyonight&count_private=true&hide=stars" alt="Roman's GitHub Stats" />
-</p>
-
-<ul>
-  <li>✅ <strong>Total Private + Public Commits:</strong> 1200+</li>
-  <li>🚀 <strong>Active Repositories:</strong> 8 (including commercial)</li>
-  <li>🔁 <strong>Pull Requests:</strong> 45+</li>
-  <li>🐛 <strong>Issues Created:</strong> 25+</li>
-  <li>📦 <strong>Packages Published:</strong> 1 (internal use)</li>
-  <li>📆 <strong>Contributed to in the last year:</strong> 10+ projects</li>
-</ul>
+* **Frontend & Mobile:** Flutter, Dart, Flutter Web, Riverpod, Bloc, Provider, WebView
+* **Backend:** Python, FastAPI, Node.js, REST API, WebSockets, Telegram Bot API
+* **AI & LLM:** OpenAI API, OpenRouter, AI Agents, LLM Assistants, RAG, Prompt Engineering
+* **Trading:** Python, Binance API, Algorithmic Trading, MACD, Price Action, Risk Management
+* **Cloud & DevOps:** AWS, Docker, GitHub, GitLab CI/CD, Sentry, DNS
+* **Database:** Firebase, Firestore, PostgreSQL, SQLite, Firebase Storage
+* **Web3:** Solidity, ERC-20, Polygon, MetaMask, Web3dart, IPFS
+* **Architecture:** Clean Architecture, MVVM, SOLID, OOP, Repository Pattern, Unit & Widget Tests
 
 ---
 
-### 🔥 GitHub Streak
+# 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RomanDevelop&theme=tokyonight" alt="GitHub Streak" />
-</p>
+## ⚓ Vessel CRM / PMS
 
----
+Ship management platform for onboard and office operations.
 
-### 🏆 GitHub Trophies
+**Stack:** Flutter · Firebase · Firestore · AI/LLM
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RomanDevelop&theme=tokyonight&margin-w=15&no-bg=true&row=1&column=6" />
-</p>
+PMS, equipment management, defects, orders, inventory, reports, vessel parameters, crew communication, role-based access, offline caching, and AI technical assistant.
 
 ---
 
-### 📫 Contacts
+## 🤖 Seamen's Club AI Hub
 
-- 🌐 [LinkedIn](https://www.linkedin.com)
-- ✉️ r.kliakhin@gmail.com
+AI-powered ecosystem combining **algorithmic trading, cloud infrastructure, Telegram communities, and AI assistants**.
+
+**Stack:** Python · AWS · Flutter · Telegram API · Binance API · LLM APIs
+
+Automated trading, live statistics, AI personalities, Telegram integration, community interaction, and Flutter mobile/web clients.
+
+```text
+Trading Engine → Python → AWS → API → Flutter
+                       ↘ Telegram
+LLM Service → AI Assistant → Telegram / App
+```
 
 ---
-✨ Always open to collaboration and exciting projects!
+
+## 📈 Algorithmic Trading Bot
+
+Cloud-based automated trading and market-analysis system.
+
+**Stack:** Python · Binance API · AWS · Telegram API
+
+MACD and price-action strategies, trading signals, risk management, position monitoring, live statistics, and Telegram notifications.
+
+---
+
+## 💳 Oschad24
+
+FinTech mobile application for **digital banking, payments, transfers, and integration with external financial services**.
+
+**Stack:** Flutter · Dart · Riverpod · WebView · REST API · SDK · Firebase · Secure Storage
+
+Features include payment workflows, transfers, API/SDK integrations, secure authentication, transaction data, push notifications, and Android/iOS support.
+
+```text
+Flutter → Riverpod → Repository Layer
+                    ↓
+             REST API / SDK / WebView
+                    ↓
+            Banking Services
+```
+
+---
+
+## ⚓ SeaJustice DAO
+
+Web3 platform for the maritime community and decentralized governance.
+
+**Stack:** Flutter Web · Solidity · Polygon · MetaMask · Web3dart · IPFS
+
+DAO governance, wallet integration, smart contracts, blockchain transactions, and decentralized storage.
+
+---
+
+## 🖥️ PraxisClone
+
+Ship machinery alarm and monitoring platform inspired by industrial marine automation systems.
+
+**Stack:** Flutter · Python · FastAPI · WebSockets
+
+Real-time machinery parameters, alarm monitoring, equipment status, telemetry processing, and live frontend updates.
+
+---
+
+## 🚢 Maritime Engineering Software
+
+Software solutions based on real-world marine engineering workflows.
+
+**Focus:** Machinery Monitoring · PMS · Defect Tracking · Inventory · Vessel Reporting · Technical Documentation · Ship/Shore Communication · AI Assistance
+
+**Marine Engineering × Software Engineering × AI**
+
+---
+
+## 🧠 Currently Exploring
+
+AI Agents · RAG · Algorithmic Trading · Multi-Agent Systems · Cloud Python Services · Web3 · Maritime Digitalization · Industrial Monitoring
+
+---
+
+## 🎯 Development Philosophy
+
+```text
+Idea → Architecture → Flutter
+     → Python Backend
+     → Database
+     → AI / Automation
+     → AWS / Cloud
+     → Production
+```
+
+I prefer building **complete working systems**, not isolated application screens.
+
+---
+
+## 📊 GitHub Stats
+
+---
+
+## 🔥 GitHub Streak
+
+---
+
+## 🏆 GitHub Trophies
+
+---
+
+## 📫 Contacts
+
+* 🌐 LinkedIn: https://www.linkedin.com/
+* ✉️ Email: [r.kliakhin@gmail.com](mailto:r.kliakhin@gmail.com)
+
+---
+
+### ⚡ Engineering real-world systems — from ship machinery to cloud software.
+
+**Flutter · Python · AI · AWS · Automation · Maritime Tech · Web3**
