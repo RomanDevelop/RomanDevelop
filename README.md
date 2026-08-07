@@ -2,22 +2,24 @@
 
 ### Flutter & Full-Stack Developer | Python Backend | AI Automation | Web3
 
-I build **mobile, web, backend, AI-powered, and automation systems** — from Flutter applications and maritime platforms to algorithmic trading services and LLM-powered assistants.
+I build **mobile, web, backend, AI-powered, and automation systems** — from Flutter applications and maritime platforms to FinTech, algorithmic trading, and LLM-powered assistants.
 
-My focus is building complete products: **Flutter → Backend → Cloud → Database → AI → Production**.
+My focus is building complete products:
+
+**Flutter → Backend → Cloud → Database → AI → Production**
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **Frontend & Mobile:** Flutter, Dart, Flutter Web, Riverpod, Bloc, Provider, WebView
-* **Backend:** Python, FastAPI, Node.js, REST API, WebSockets, Telegram Bot API
-* **AI & LLM:** OpenAI API, OpenRouter, AI Agents, LLM Assistants, RAG, Prompt Engineering
-* **Trading:** Python, Binance API, Algorithmic Trading, MACD, Price Action, Risk Management
-* **Cloud & DevOps:** AWS, Docker, GitHub, GitLab CI/CD, Sentry, DNS
-* **Database:** Firebase, Firestore, PostgreSQL, SQLite, Firebase Storage
-* **Web3:** Solidity, ERC-20, Polygon, MetaMask, Web3dart, IPFS
-* **Architecture:** Clean Architecture, MVVM, SOLID, OOP, Repository Pattern, Unit & Widget Tests
+- **Frontend & Mobile:** Flutter, Dart, Flutter Web, Riverpod, Bloc, Provider, WebView
+- **Backend:** Python, FastAPI, Node.js, REST API, WebSockets, Telegram Bot API
+- **AI & LLM:** OpenAI API, OpenRouter, AI Agents, LLM Assistants, RAG, Prompt Engineering
+- **Trading:** Python, Binance API, Algorithmic Trading, MACD, Price Action, Risk Management
+- **Cloud & DevOps:** AWS, Docker, GitHub, GitLab CI/CD, Sentry, DNS
+- **Database:** Firebase, Firestore, PostgreSQL, SQLite, Firebase Storage
+- **Web3:** Solidity, ERC-20, Polygon, MetaMask, Web3dart, IPFS
+- **Architecture:** Clean Architecture, MVVM, SOLID, OOP, Repository Pattern, Unit & Widget Tests
 
 ---
 
@@ -25,11 +27,11 @@ My focus is building complete products: **Flutter → Backend → Cloud → Data
 
 ## ⚓ Vessel CRM / PMS
 
-Ship management platform for onboard and office operations.
+Ship management platform for **onboard and office operations**, designed around real maritime workflows.
 
-**Stack:** Flutter · Firebase · Firestore · AI/LLM
+**Stack:** Flutter · Firebase · Firestore · Firebase Auth · Firebase Storage · AI/LLM
 
-PMS, equipment management, defects, orders, inventory, reports, vessel parameters, crew communication, role-based access, offline caching, and AI technical assistant.
+PMS, equipment management, defects, orders, inventory, vessel parameters, reports, crew communication, role-based access, offline caching, and AI technical assistant.
 
 ---
 
@@ -39,11 +41,12 @@ AI-powered ecosystem combining **algorithmic trading, cloud infrastructure, Tele
 
 **Stack:** Python · AWS · Flutter · Telegram API · Binance API · LLM APIs
 
-Automated trading, live statistics, AI personalities, Telegram integration, community interaction, and Flutter mobile/web clients.
+Automated trading, live statistics, AI assistants, Telegram integration, community interaction, and Flutter mobile/web clients.
 
 ```text
-Trading Engine → Python → AWS → API → Flutter
-                       ↘ Telegram
+Trading Engine → Python Backend → AWS → API → Flutter
+                                  ↘ Telegram
+
 LLM Service → AI Assistant → Telegram / App
 ```
 
@@ -55,51 +58,55 @@ Cloud-based automated trading and market-analysis system.
 
 **Stack:** Python · Binance API · AWS · Telegram API
 
-MACD and price-action strategies, trading signals, risk management, position monitoring, live statistics, and Telegram notifications.
+Algorithmic strategies, MACD and price-action analysis, trading signals, risk management, position monitoring, live statistics, and Telegram notifications.
 
 ---
 
 ## 💳 Oschad24
 
-FinTech mobile application for **digital banking, payments, transfers, and integration with external financial services**.
+FinTech mobile application for **digital banking, payments, transfers, and external financial services**.
 
 **Stack:** Flutter · Dart · Riverpod · WebView · REST API · SDK · Firebase · Secure Storage
 
-Features include payment workflows, transfers, API/SDK integrations, secure authentication, transaction data, push notifications, and Android/iOS support.
+Payment workflows, transfers, banking integrations, secure authentication, transaction data, push notifications, and Android/iOS support.
 
 ```text
 Flutter → Riverpod → Repository Layer
                     ↓
-             REST API / SDK / WebView
+           REST API / SDK / WebView
                     ↓
-            Banking Services
+             Banking Services
 ```
 
 ---
 
 ## ⚓ SeaJustice DAO
 
-Web3 platform for the maritime community and decentralized governance.
+Web3 platform for the **maritime community and decentralized governance**.
 
 **Stack:** Flutter Web · Solidity · Polygon · MetaMask · Web3dart · IPFS
 
-DAO governance, wallet integration, smart contracts, blockchain transactions, and decentralized storage.
+DAO governance, wallet integration, smart contracts, blockchain transactions, decentralized storage, and Web3 authentication.
 
 ---
 
 ## 🖥️ PraxisClone
 
-Ship machinery alarm and monitoring platform inspired by industrial marine automation systems.
+Ship machinery **alarm and monitoring system** inspired by industrial marine automation platforms.
 
 **Stack:** Flutter · Python · FastAPI · WebSockets
 
 Real-time machinery parameters, alarm monitoring, equipment status, telemetry processing, and live frontend updates.
 
+```text
+Ship Equipment → FastAPI → WebSockets → Flutter
+```
+
 ---
 
 ## 🚢 Maritime Engineering Software
 
-Software solutions based on real-world marine engineering workflows.
+Software solutions based on **real-world marine engineering and vessel operations**.
 
 **Focus:** Machinery Monitoring · PMS · Defect Tracking · Inventory · Vessel Reporting · Technical Documentation · Ship/Shore Communication · AI Assistance
 
@@ -109,19 +116,35 @@ Software solutions based on real-world marine engineering workflows.
 
 ## 🧠 Currently Exploring
 
-AI Agents · RAG · Algorithmic Trading · Multi-Agent Systems · Cloud Python Services · Web3 · Maritime Digitalization · Industrial Monitoring
+- AI Agents & Multi-Agent Systems
+- RAG & LLM Applications
+- Algorithmic Trading
+- Cloud Python Services
+- Advanced Flutter Architecture
+- Web3 & Smart Contracts
+- Maritime Digitalization
+- Industrial Monitoring & Automation
 
 ---
 
 ## 🎯 Development Philosophy
 
 ```text
-Idea → Architecture → Flutter
-     → Python Backend
-     → Database
-     → AI / Automation
-     → AWS / Cloud
-     → Production
+Idea
+ ↓
+Architecture
+ ↓
+Flutter / Web
+ ↓
+Python Backend
+ ↓
+Database
+ ↓
+AI / Automation
+ ↓
+AWS / Cloud
+ ↓
+Production
 ```
 
 I prefer building **complete working systems**, not isolated application screens.
@@ -142,11 +165,11 @@ I prefer building **complete working systems**, not isolated application screens
 
 ## 📫 Contacts
 
-* 🌐 LinkedIn: https://www.linkedin.com/
-* ✉️ Email: [r.kliakhin@gmail.com](mailto:r.kliakhin@gmail.com)
+- 🌐 LinkedIn: [linkedin.com](https://www.linkedin.com/)
+- ✉️ Email: [r.kliakhin@gmail.com](mailto:r.kliakhin@gmail.com)
 
 ---
 
 ### ⚡ Engineering real-world systems — from ship machinery to cloud software.
 
-**Flutter · Python · AI · AWS · Automation · Maritime Tech · Web3**
+**Flutter · Python · FastAPI · AI · AWS · Automation · FinTech · Maritime Tech · Web3**
